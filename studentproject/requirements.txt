@@ -1,0 +1,11 @@
+django==4.2.1
+djangorestframework==3.14.0
+et-xmlfile==1.1.0
+mysqlclient==2.1.1
+openpyxl==3.1.2
+pytz==2023.3
+soupsieve==2.4.1
+sqlparse==0.4.4
+typing_extensions==4.6.2
+tzdata==2023.3
+django-bootstrap4
